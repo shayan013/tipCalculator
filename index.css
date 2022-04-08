@@ -1,0 +1,10 @@
+.submitBtn{
+    font-size: 30px;
+   
+    margin: auto;
+}
+.results{display: none;}
+.active{
+    display:block
+}
+
